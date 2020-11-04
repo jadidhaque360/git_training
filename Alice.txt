@@ -3,3 +3,4 @@ this is after editing on branch
 This is 3rd after divergence
 for rebasing
 for remote fetch
+for rewording
